@@ -101,7 +101,7 @@ Here are the results of the prediction:
 | Priority road			| Priority road					 				|
 | Road work				| Road work										|
 
-The model was able to correctly guess 43 of the 5 traffic signs, which gives an accuracy of 60%.
+The model was able to correctly guess 3 of the 5 traffic signs, which gives an accuracy of 60%.
 
 
 For the first image, the top five soft max probabilities were
