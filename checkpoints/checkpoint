@@ -1,1 +1,6 @@
-
+model_checkpoint_path: "traffic_sign_model.ckpt-49"
+all_model_checkpoint_paths: "traffic_sign_model.ckpt-45"
+all_model_checkpoint_paths: "traffic_sign_model.ckpt-46"
+all_model_checkpoint_paths: "traffic_sign_model.ckpt-47"
+all_model_checkpoint_paths: "traffic_sign_model.ckpt-48"
+all_model_checkpoint_paths: "traffic_sign_model.ckpt-49"
