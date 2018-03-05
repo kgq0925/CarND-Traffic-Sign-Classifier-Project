@@ -1,8 +1,6 @@
-# **Traffic Sign Recognition** 
+# Traffic Sign Recognition
 
 ## Writeup
-
----
 
 **Build a Traffic Sign Recognition Project**
 
@@ -23,8 +21,6 @@ The goals / steps of this project are the following:
 [image3]: ./new-images/small_no_vehicles.png "RANDOM SAMPLES"
 [image4]: ./new-images/small_priority_road.png "RANDOM SAMPLES"
 [image5]: ./new-images/small_road_works.png "RANDOM SAMPLES"
-
----
 
 ### Data Set Summary & Exploration
 
