@@ -12,7 +12,6 @@ The goals / steps of this project are the following:
 * Analyze the softmax probabilities of the new images
 * Summarize the results with a written report
 
-
 [//]: # (Image References)
 
 [samples]: ./examples/samples.png "RANDOM SAMPLES"
@@ -84,8 +83,11 @@ My final model results were:
 
 Here are five German traffic signs that I found on the web:
 
-![alt text][image1] ![alt text][image2] ![alt text][image3] 
-![alt text][image4] ![alt text][image5]
+![alt text][image1]
+![alt text][image2]
+![alt text][image3]
+![alt text][image4]
+![alt text][image5]
 
 Here are the results of the prediction:
 
